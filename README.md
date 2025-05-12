@@ -15,7 +15,7 @@ Luego, solicita el monto a convertir, consulta la tasa actual a través de una l
 
 
 ## Ejemplo de uso
-![Ejemplo de uso del conversor](images/Prueba1.png)
+![Ejemplo de uso del conversor](images/Prueba1.jpeg)
 
 ## 🔧 Tecnologías utilizadas
 
